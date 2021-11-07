@@ -1,1 +1,10 @@
 __pycache__/quotes_spider.cpython-39.pyc
+tutorial/tutorial/spiders/news_spiders.py
+tutorial/authors.json
+tutorial/quotes2.json
+tutorial/quotes3.json
+tutorial/quotes4.json
+tutorial/quotes5.json
+tutorial/tutorial/spiders/__pycache__/author_spiders.cpython-39.pyc
+tutorial/tutorial/spiders/__pycache__/news_spiders.cpython-39.pyc
+tutorial/tutorial/spiders/__pycache__/quotes_spiders.cpython-39.pyc
